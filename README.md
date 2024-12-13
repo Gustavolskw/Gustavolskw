@@ -31,7 +31,7 @@ public class GustavolskwAbout(){
   @Entity
   public class aboutMe(){
     private String name =  'Gustavo Luis Schmidt';
-    private Integer age =  '20';
+    private Integer age =  '21';
     private String rank = 'FullStack Java/SpringBoot/Angular/PHP/Ts';
     private String rank = 'Backend Developer - Java/SpringBoot',
     private String studying =  'Análise e Desenvolvimento de Sistemas - UniSenai';
@@ -49,6 +49,9 @@ public class GustavolskwAbout(){
       'organization',
       'proactive'
     };
+    private String []devStack = {
+      "Java", "PHP", "JavaScript", "Spring Boot", "Angular", "Vue", "Laravel", "Docker" & "RabbitMQ"
+    }
 };
 ===========================================================================================
 SQL

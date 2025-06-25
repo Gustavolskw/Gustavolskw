@@ -5,7 +5,7 @@
 <h2 align="center">Linguagens e Tecnologias</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,slim,java,spring,mysql,html,css,js,ts,nodejs,docker,git,bootstrap,jquery&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,html,css,js,ts,nodejs,docker,git,bootstrap,jquery&theme=light" />
   </a>
 </p>
 

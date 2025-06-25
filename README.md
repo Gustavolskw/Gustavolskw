@@ -50,8 +50,8 @@ class AboutMe {
     ];
 
     public array $devStack = [
-        'PHP', 'Laravel', 'Slim', 'Java', 'Spring Boot',
-        'MySQL', 'Docker', 'RabbitMQ'
+        'PHP', 'Laravel', 'Slim', 'FrankenPHP', 'Java', 'Spring Boot',
+        'MySQL', 'Docker', 'RabbitMQ', 'MongoDB'
     ];
 }
 ```

@@ -11,16 +11,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavolskw&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavolskw&theme=default" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolskw&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
 <div align="center">
   <a href="mailto:gustavolschmidt13@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -64,3 +54,13 @@ class AboutMe {
         'MySQL', 'Docker', 'RabbitMQ'
     ];
 }
+```
+---
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavolskw&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavolskw&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolskw&layout=compact&theme=default" alt="Top Langs" />
+</p>

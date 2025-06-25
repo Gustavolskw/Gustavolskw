@@ -1,17 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gustavo+Luis+Schmidt.;I'm+21+years+old;I'm+Backend+Developer+(Java%2C+Spring);Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Luis+Schmidt;Tenho+21+anos+de+idade;Sou+Desenvolvedor+Backend+(Java%2C+Spring);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gustavo+Luis+Schmidt.;I'm+21+years+old;I'm+Backend+Developer+(PHP%2C+Java%2C+Spring);Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Luis+Schmidt;Tenho+21+anos+de+idade;Sou+Desenvolvedor+Backend+(PHP%2C+Java%2C+Spring);)](https://git.io/typing-svg)
 
 ---
 
 <h2 align="center">Linguagens e Tecnologias</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,php,java,spring,mysql,nodejs,bootstrap,jquery,git,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,slim,swoole,java,spring,mysql,html,css,js,ts,nodejs,docker,git,bootstrap,jquery&theme=light" />
   </a>
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavolskw&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolskw&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolskw&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+---
+
 <div align="center">
   <a href="mailto:gustavolschmidt13@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-luis-schmidt-331304222/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -20,36 +32,35 @@
 
 ---
 
-```java
-// Java & Spring Boot
-public class GustavolskwAbout {
-  public static void main(String[] args) {
-    SpringApplication.run(GustavolskwAbout.class, args);
-  }
-}
+```php
+<?php
 
-@Entity
-public class AboutMe {
-  private String name = "Gustavo Luis Schmidt";
-  private Integer age = 21;
-  private String rank = "Backend Developer - Java/SpringBoot";
-  private String studying = "Análise e Desenvolvimento de Sistemas - UniSenai";
-  private String country = "Brasil";
-  private String[] hobbies = {
-    "play games",
-    "watch series",
-    "read books",
-    "listen to music",
-    "study"
-  };
-  private String[] softSkills = {
-    "communication",
-    "teamwork",
-    "organization",
-    "proactivity"
-  };
-  private String[] devStack = {
-    "Java", "PHP", "JavaScript", "Spring Boot",
-    "Angular", "Vue", "Laravel", "Docker", "RabbitMQ"
-  };
+// PHP Developer Profile
+class AboutMe {
+    public string $name = 'Gustavo Luis Schmidt';
+    public int $age = 21;
+    public string $role = 'Backend Developer';
+    public string $stack = 'PHP, Laravel, Slim, Java, Spring Boot';
+    public string $studying = 'Análise e Desenvolvimento de Sistemas - UniSenai';
+    public string $country = 'Brasil';
+
+    public array $hobbies = [
+        'play games',
+        'watch series',
+        'read books',
+        'listen to music',
+        'study'
+    ];
+
+    public array $softSkills = [
+        'communication',
+        'teamwork',
+        'organization',
+        'proactivity'
+    ];
+
+    public array $devStack = [
+        'PHP', 'Laravel', 'Slim', 'Java', 'Spring Boot',
+        'MySQL', 'Docker', 'RabbitMQ'
+    ];
 }

@@ -3,11 +3,42 @@
 ---
 
 <h2 align="center">Linguagens e Tecnologias</h2>
+
+<h3 align="center">Linguagens</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgres,mongodb,redis,rabbitmq,js,ts,nodejs,react,nextjs,vue,docker,git,bootstrap,pest&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,ts&theme=light" />
   </a>
 </p>
+
+<h3 align="center">Frameworks & Bibliotecas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,spring,react,nextjs,vue,bootstrap,pest&theme=light" />
+  </a>
+</p>
+
+<h3 align="center">Bancos de Dados</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light" />
+  </a>
+</p>
+
+<h3 align="center">Mensageria</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" />
+  </a>
+</p>
+
+<h3 align="center">Ferramentas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git&theme=light" />
+  </a>
+</p>
+
 
 
 ---

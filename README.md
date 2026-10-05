@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gustavo+Luis+Schmidt.;I'm+22+years+old;I'm+a+Backend+Developer+(PHP%2C+Laravel);Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Luis+Schmidt;Tenho+22+anos+de+idade;Sou+Desenvolvedor+Backend+(PHP%2C+Laravel);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gustavo+Luis+Schmidt.;I'm+23+years+old;I'm+a+Backend+Developer+(PHP%2C+Laravel);Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Luis+Schmidt;Tenho+23+anos+de+idade;Sou+Desenvolvedor+Backend+(Java%2C+SpringBoot);)](https://git.io/typing-svg)
 
 ---
 
@@ -51,7 +51,7 @@
 // PHP Developer Profile
 class AboutMe {
     public string $name = 'Gustavo Luis Schmidt';
-    public int $age = 21;
+    public int $age = 23;
     public string $role = 'Backend Developer';
     public string $stack = 'PHP, Laravel, Slim, Java, Spring Boot';
     public string $studying = 'Análise e Desenvolvimento de Sistemas - UniSenai';
@@ -73,8 +73,8 @@ class AboutMe {
     ];
 
     public array $devStack = [
-        'PHP', 'Laravel', 'Slim', 'FrankenPHP', 'Java', 'Spring Boot',
-        'MySQL', 'Docker', 'RabbitMQ', 'MongoDB'
+        'Java', 'SpringBoot', 'AWS', 'C#', 'PHP', 'Laravel',
+        'MySQL', 'Docker', 'RabbitMQ', 'MongoDB', 'SQS', 'PostgreSQL'
     ];
 }
 ```
